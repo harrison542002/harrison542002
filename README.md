@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @harrison542002
-- 👀 I’m interested in programming.
-- 🌱 I’m currently computer science specific on web development. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email Address - aungthiha12345mdy@gmail.com
 
 <!---
