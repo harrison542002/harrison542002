@@ -1,6 +1,6 @@
 - 📫 Email Address - aungthiha12345mdy@gmail.com
 - 🖇️ LinkedIn - linkedin.com/in/aung-thiha-tun-6234a61b6
-- 👽 Interested in Backend stuffs, preferring languages, JavaScript, Python, Java,.
+- 👽 Interested in Backend stuffs, preferred languages, JavaScript, Python, Java,.
 - 🤖 Still in process to Senior Web Developer
 - ### Skills
 
@@ -11,6 +11,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/> </a>
 </p>
 
 <!---
