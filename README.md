@@ -2,7 +2,8 @@
 - 🖇️ LinkedIn - linkedin.com/in/aung-thiha-tun-6234a61b6
 - 👽 Interested in Backend stuffs, preferred languages, JavaScript, Python, Java,.
 - 🤖 Still in process to Senior Web Developer
-- ### Skills
+
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
