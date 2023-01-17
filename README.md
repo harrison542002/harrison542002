@@ -2,6 +2,7 @@
 - 🖇️ LinkedIn - linkedin.com/in/aung-thiha-tun-6234a61b6
 - 👽 Interested in Backend stuffs, preferred languages, JavaScript, Python, Java,.
 - 🤖 Still in process to Senior Web Developer
+- Discover My portfolio here https://harrison542002.github.io/aung-portfolio
 
 ### Skills
 
