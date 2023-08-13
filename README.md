@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍀I am currently learning full stack techs such as NodeJS, Spring Boot, React, Angular, MongoDB, MySQL and more.<br>🌟I love to collaborate with other people.<br>🌐I implement ideas into real things.<br>📖I can speak English, Chinese and Burmese.<br>💫Let's be Friend and connect !
+🍀I am a full-stack developer professional in NodeJS, Spring Boot, React, Angular, MongoDB, MySQL, NestJS and more.<br>🌟I love to collaborate with other people.<br>🌐I implement ideas into real things.<br>📖I can speak English, Chinese and Burmese.<br>💫Let's be Friend and connect !
 
 
 ## 🌐 Socials:
