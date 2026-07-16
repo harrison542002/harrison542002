@@ -1,6 +1,6 @@
 # Hi, I'm Aung
  
-Software engineer based in Bristol, UK. I build backend services, cloud infrastructure, and developer tooling.
+Software engineer based in Bristol, UK. I build backend services, cloud infrastructure, and developer tooling. Currently, going deeper on platform engineering and distributed machine learning system
  
 ### What I do
  
@@ -44,12 +44,6 @@ Software engineer based in Bristol, UK. I build backend services, cloud infrastr
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Dash0](https://img.shields.io/badge/Dash0-EA3D3B?style=for-the-badge&logo=dash0&logoColor=white)
- 
-### Currently
- 
-- Software Engineer @ Platform48
-- Working towards my **Certified Kubernetes Administrator (CKA)**
-- Going deeper on platform engineering and distributed machine learning system
   
 ### Reach me
  
