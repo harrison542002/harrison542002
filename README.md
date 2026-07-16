@@ -1,4 +1,4 @@
-# Hi, I'm Aung 👋
+# Hi, I'm Aung
  
 Software engineer based in Bristol, UK. I build backend services, cloud infrastructure, and developer tooling.
  
