@@ -43,6 +43,7 @@ Software engineer based in Bristol, UK. I build backend services, cloud infrastr
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Dash0](https://img.shields.io/badge/Dash0-EA3D3B?style=for-the-badge&logo=dash0&logoColor=white)
  
 ### Currently
  
