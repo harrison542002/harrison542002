@@ -7,7 +7,7 @@ Software engineer based in Bristol, UK. I build backend services, cloud infrastr
 - Build backend services and APIs in **Go**, **NodeJS** and **Python**
 - Design and automate cloud infrastructure with **Terraform** and **GCP**
 - Ship reliable **CI/CD** pipelines and internal developer tooling
-- Explore **LLMs and AI tooling** — including an MCP server that lets models talk to core service APIs
+- Explore **LLMs and AI tooling** — including an MCP server, Agentic CLI, and ML Ops.
 
 **Languages**
 
