@@ -27,8 +27,8 @@ Software engineer based in Bristol, UK. I build backend services, cloud infrastr
 
 **Tooling**
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Dash0-EA3D3B?style=for-the-badge&logo=dash0&logoColor=white" height="20" />
-  
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="20" />
+
 ### Reach me
  
 - 📫 aungthiha12345mdy@gmail.com
