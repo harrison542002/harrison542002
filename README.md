@@ -33,3 +33,5 @@ Software engineer based in Bristol, UK. I build backend services, cloud infrastr
  
 - 📫 aungthiha12345mdy@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/)
+
+<img src="https://komarev.com/ghpvc/?username=harrison542002&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile views" />
